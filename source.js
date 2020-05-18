@@ -145,7 +145,3 @@ accept.onclick = function() {
         battle(player, enemy);
     }
 }
-
-nextBattle.onclick = function() {
-    
-}
